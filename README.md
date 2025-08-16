@@ -2,7 +2,7 @@
 
 <img width="824" height="325" alt="image" src="https://github.com/user-attachments/assets/6debeaa7-8e20-43ad-aef4-b3addd7129bc" />
 
-Spectre is a powerful CLI tool designed for interacting with llama.cpp servers. It provides an intuitive interface for working with local AI models, making it easy to run, manage, and interact with language models without needing complex setup.
+Spectre is a CLI tool designed for interacting with llama.cpp servers. It provides an intuitive interface for working with local AI models, making it easy to run, manage, and interact with language models without needing complex setup.
 
 ## Features
 
