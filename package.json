@@ -1,5 +1,5 @@
 {
-  "name": "spectre-cli",
+  "name": "spectre-ai",
   "version": "1.0.0",
   "description": "CLI tool for interacting with llama.cpp server",
   "type": "module",

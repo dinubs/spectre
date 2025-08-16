@@ -18,7 +18,7 @@ This tool is designed to work with llama.cpp servers, it does not care about the
 
 ```bash
 # Install via npm
-npm install -g spectre-cli
+npm install -g spectre-ai
 
 # Or clone and build locally
  git clone https://github.com/dinubs/spectre
