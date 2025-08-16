@@ -21,7 +21,7 @@ This tool is designed to work with llama.cpp servers, it does not care about the
 npm install -g spectre
 
 # Or clone and build locally
- git clone <repository-url>
+ git clone https://github.com/dinubs/spectre
  cd spectre
  npm install
  npm run build
