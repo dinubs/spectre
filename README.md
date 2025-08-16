@@ -4,6 +4,8 @@
 
 Spectre is a CLI tool designed for interacting with llama.cpp servers. It provides an intuitive interface for working with local AI models, making it easy to run, manage, and interact with language models without needing complex setup.
 
+This tool is designed to work with llama.cpp servers, it does not care about the model you're using (it sends gpt-3.5-turbo to the server, server uses whatever is loaded). By default it looks for `http://localhost:8080` for the server, you can change this with an environment variable `LLAMA_API_URL`
+
 ## Features
 
 - **CLI Interface**: Intuitive command-line interface for interacting with AI models
@@ -59,7 +61,7 @@ Spectre works by:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request. This project is primarily AI with human correction when necessary, I like to use spectre to build spectre (it's not perfect, but it's getting there).
 
 ## License
 
